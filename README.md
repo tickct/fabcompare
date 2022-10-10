@@ -14,7 +14,7 @@ FABDB_API_SECRET= [Insert your secret key here]
 SERVER_PORT = 3001
 ```
 
-###Setting up the project
+### Setting up the project
 Once you do the above the rest of the setup will just be two dependancy instalation commands one in the root directory and one in `./app` for the front end.
 
 ### running this project locally
